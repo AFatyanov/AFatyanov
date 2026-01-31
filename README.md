@@ -8,12 +8,13 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afatyanov&show_icons=true&theme=transparent&hide_border=true" alt="Anton's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afatyanov&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afatyanov&theme=dracula" alt="GitHub Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afatyanov&theme=dracula" alt="Most Commit Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afatyanov&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=afatyanov&theme=dracula" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afatyanov&theme=dracula" alt="Productive Time" />
 </p>
 
 ---
@@ -23,6 +24,10 @@
 I am a Senior Drilling SME and Digital R&D Specialist with over 14 years of experience in the Oil & Gas industry. My career is defined by a unique hybrid expertise: combining deep physical rig operations knowledge with advanced informatics and software engineering.
 
 I bridge the gap between traditional well engineering and modern digital ecosystems. By leveraging my background in both Petroleum Engineering and Informatics, I develop high-impact solutions for real-time drilling risk analytics, autonomous optimization, and physics-based machine learning models. My goal is to transform complex operational data into modular, scalable, and actionable software architectures that drive efficiency and safety in the field.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afatyanov&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
