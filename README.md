@@ -25,12 +25,7 @@ This is a credibility layer (Big 3 OFS), not a detailed employment timeline.
 
 ---
 
-## Professional Focus (Selected)
-
-**TetraSoft — Drilling Subject-Matter Expert / Digital R&D**  
-- Modernized physics-based models into a modular Python architecture suitable for product deployment (CLI/services).  
-- Defined real-time telemetry interfaces and validation rules to ensure reliable, low-latency decision logic.  
-- Drove risk-engineering method design for operational use (thresholds, escalation, auditable events).
+## Professional Experience
 
 **Gazprom Group / RusGazBurenie — Real-Time Operations Support (Expert)**  
 - Built and applied predictive “road-map” logic for hookload, torque & drag, and hydraulics vs. plan envelopes.  
@@ -60,8 +55,6 @@ This is a credibility layer (Big 3 OFS), not a detailed employment timeline.
 
 - **M.Sc., Petroleum Engineering** (Well Construction)  
 - **M.Sc., Applied Mathematics & Information Technologies**
-
-(High-level by design; no university details.)
 
 ---
 
